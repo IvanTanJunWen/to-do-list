@@ -7,6 +7,6 @@ Followed tutorial from The Web Dev Bootcamp course on Udemy.
 
 After cloning, run index.html
 
-To Do:
+# To Do:
 
 Set reminders for items
